@@ -1,5 +1,5 @@
-from lib.bot import Iteria
+from lib.bot import MyBot
 
-iteria = Iteria()
+myBot = MyBot() #create bot instance
 
-iteria.run("1.0")
+myBot.run("1.0") # run bot
