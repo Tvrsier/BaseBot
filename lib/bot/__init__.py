@@ -6,7 +6,7 @@ import traceback
 from disnake.ext.commands import *
 from disnake import Intents
 
-#Set the bot's prefix, creating an empty list for owner ids and initialize a list for cogs stored in ./lib.cogs/
+#Set the bot's prefix, creating an empty list for owner ids and initialize a list for cogs stored in ./lib/cogs/
 prefix = "&"
 OWNER_IDS = []
 COGS = [path.split("\\")[1][:-3] for path in glob("./lib/cogs/*py")]
