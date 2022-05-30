@@ -1,5 +1,5 @@
 # BaseBot
-Base bot is an easy setup for discord.py and relative forks\n
+Base bot is an easy setup for discord.py and relative forks
 It is recommended to merge or download this repo and develop your code in it
 
 
